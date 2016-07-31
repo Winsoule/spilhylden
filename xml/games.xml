@@ -1,0 +1,74 @@
+<CATALOG>
+	<BOARDGAME>
+		<TITLE>7 Wonders</TITLE>
+		<CREATOR>Antonine Bauza</CREATOR>
+		<INFO>You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.</INFO>
+		<PLAYERSMIN>2</PLAYERSMIN>
+		<PLAYERSMAX>7</PLAYERSMAX>
+		<REPLAYERS>4</REPLAYERS>
+		<PLAYTIME>30</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>A la Carte</TITLE>
+		<CREATOR>Karl-Heinz Schmiel</CREATOR>
+		<INFO>The players as semi-psychotic cooks attempting to hone their culinary skills. Each player receives a miniature pan and a hotplate. Then each turn you can either attempt to turn up the heat, season your dish, or attempt to steal another cook's recipe in the making. </INFO>
+		<PLAYERSMIN>2</PLAYERSMIN>
+		<PLAYERSMAX>4</PLAYERSMAX>
+		<REPLAYERS>4</REPLAYERS>
+		<PLAYTIME>30</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>Bananagrams</TITLE>
+		<CREATOR>Rena Nathanson, Abe Nathanson</CREATOR>
+		<INFO>Each player works independently to create their own 'crossword'. When a player uses up all their letters, all players take a new tile from the pool. When all the tiles are gone, the first player to use up all the tiles in their hand wins.</INFO>
+		<PLAYERSMIN>1</PLAYERSMIN>
+		<PLAYERSMAX>8</PLAYERSMAX>
+		<REPLAYERS>3-5</REPLAYERS>
+		<PLAYTIME>15</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>Battlestar Galactica</TITLE>
+		<CREATOR>Corey Konieczka</CREATOR>
+		<INFO></INFO>
+		<PLAYERSMIN>3</PLAYERSMIN>
+		<PLAYERSMAX>6</PLAYERSMAX>
+		<REPLAYERS>5</REPLAYERS>
+		<PLAYTIME>120-240</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>Bezzerwizzer+</TITLE>
+		<CREATOR>Jesper Bülow</CREATOR>
+		<INFO></INFO>
+		<PLAYERSMIN>2</PLAYERSMIN>
+		<PLAYERSMAX>4</PLAYERSMAX>
+		<REPLAYERS>4</REPLAYERS>
+		<PLAYTIME>45</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>Power Grid</TITLE>
+		<CREATOR>Friedemann Friese</CREATOR>
+		<INFO></INFO>
+		<PLAYERSMIN>2</PLAYERSMIN>
+		<PLAYERSMAX>6</PLAYERSMAX>
+		<REPLAYERS>4-5</REPLAYERS>
+		<PLAYTIME>120</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>Coup</TITLE>
+		<CREATOR>Rikki Tahta</CREATOR>
+		<INFO></INFO>
+		<PLAYERSMIN>2</PLAYERSMIN>
+		<PLAYERSMAX>6</PLAYERSMAX>
+		<REPLAYERS>5</REPLAYERS>
+		<PLAYTIME>15</PLAYTIME>
+	</BOARDGAME>
+	<BOARDGAME>
+		<TITLE>Bohnanza</TITLE>
+		<CREATOR>Uwe Rosenberg</CREATOR>
+		<INFO></INFO>
+		<PLAYERSMIN>2</PLAYERSMIN>
+		<PLAYERSMAX>7</PLAYERSMAX>
+		<REPLAYERS>5</REPLAYERS>
+		<PLAYTIME>45</PLAYTIME>
+	</BOARDGAME>
+</CATALOG>
